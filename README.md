@@ -1,7 +1,7 @@
 # Play Habbo with Flash Player
 This is a tutorial to play Habbo with Flash Player, even if discontinued.
 
-## Windows Tutorial
+## Windows
 1. Verify that you have Adobe Flash Player 32.0.0.344 installed on your computer. Go to Control Panel > Programs and Features > Find Adobe Flash Player 32 NPAPI and check "Verify" tab to verify if you have 32.0.0.344 installed. If you have this version installed, go to Step 5, otherwise go to Step 2.
 2. Uninstall Adobe Flash Player with [this installer](https://fpdownload.macromedia.com/get/flashplayer/current/support/uninstall_flash_player.exe).
 3. [Download Adobe Flash Player 32.0.0.344](https://archive.org/download/flashplayerarchivedversions2/357/fp_32.0.0.344_archive.zip) (from Adobe on archive.org)
